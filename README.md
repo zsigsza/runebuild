@@ -3,9 +3,11 @@
 
 ## Building
 
-`git clone https://github.com/zsigsza/runebuild.git`
-`cd runebuild`
-`odin build .`
+```
+git clone https://github.com/zsigsza/runebuild.git
+cd runebuild
+odin build .
+```
 
 Then add the folder to your environment variables,
 or put it in `/usr/local/bin` if you're a kool kid.
