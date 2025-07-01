@@ -7,4 +7,5 @@
 *For more information about the config, check out `default.ini`.*
 ## Used libraries
 [bgfx-odin](https://github.com/Yuuso/bgfx-odin) By [Yuuso](https://github.com/Yuuso)
+
 [odin-ini](https://github.com/Lunatoid/odin-ini) By [Lunatoid](https://github.com/Lunatoid)
